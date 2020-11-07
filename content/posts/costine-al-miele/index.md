@@ -9,6 +9,8 @@ Questo è stato il nostro secondo esperimento con la neo acquistata SlowCooker.
 
 Costine di maiale con glassatura al miele cotte a bassa temperatura.
 
+{{<myvideo "video/risultato.mp4">}}
+
 ## Ingredienti (per 2 golosi)
 
 * 1Kg di costine di maiale non troppo grasse
