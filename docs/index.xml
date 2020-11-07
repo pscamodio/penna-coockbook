@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penna CookBook</title>
+    <link>https://pscamodio.github.io/penna-cookbook/</link>
+    <description>Recent content on Penna CookBook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 07 Nov 2020 16:21:00 +0100</lastBuildDate><atom:link href="https://pscamodio.github.io/penna-cookbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Costine Al Miele</title>
+      <link>https://pscamodio.github.io/penna-cookbook/posts/costine-al-miele/</link>
+      <pubDate>Sat, 07 Nov 2020 15:56:51 +0100</pubDate>
+      
+      <guid>https://pscamodio.github.io/penna-cookbook/posts/costine-al-miele/</guid>
+      <description>Ecco la prima ricetta nel libro di ricette.
+Questo è stato il nostro secondo esperimento con la neo acquistata SlowCooker.
+Costine di maiale con glassatura al miele cotte a bassa temperatura.
+Ingredienti (per 2 golosi)  1Kg di costine di maiale non troppo grasse 2 cucchiai di miele 2 cucchiai di olio 1 cucchiaio di aceto di vino bianco 2 spicchi di aglio Timo Rosmarino Sale Pepe Altre spezie/peperoncino se piace  </description>
+    </item>
+    
+  </channel>
+</rss>
