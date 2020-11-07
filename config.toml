@@ -1,4 +1,4 @@
-baseURL = "https://pscamodio.github.io/penna-cookbook/"
+baseURL = "https://pscamodio.github.io"
 languageCode = "it-it"
 title = "Penna CookBook"
 publishDir = "docs"

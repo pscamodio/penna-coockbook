@@ -18,7 +18,6 @@ coverage*out
 docksh
 
 GoBuilds
-dist
 
 hugolib/hugo_statsjson
 resources/sunsetjpg
