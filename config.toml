@@ -3,6 +3,34 @@ languageCode = "it-it"
 title = "Penna CookBook"
 publishDir = "docs"
 paginate = 10
+DefaultContentLanguage = "it"
+SectionPagesMenu = "main"
+Paginate = 10
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changereq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Raccolta di ricette di Anna e Amodio"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackowerflow = ""
+  rss = ""
+  background_color_class = "bg-black"
+  recent_post_number = 2
 
 [module]
  [[module.imports]]
