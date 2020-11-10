@@ -6,7 +6,7 @@ tags:
 - Dolci
 - Carote
 date: 2020-11-08T10:08:15+01:00
-featured_image: "posts/torta_di_carote/images/torta_di_carote.jpg"
+featured_image: "ricette/torta_di_carote/images/torta_di_carote.jpg"
 draft: false
 ---
 
@@ -56,7 +56,7 @@ Mettere nella ciotola grande le uova e lo zucchero e iniziare a frustare a veloc
 
 Aggiungere quindi prima l'olio e poi quando il composto è omogeneo, anche le componenti secche (farine, lievito, cannella).
 
-Il composto diventerà cremoso ma molto dentro, quindi spegnere le fruste e incorporare con una spatola le carote, la loro umidità ammorbidirà il composto.
+Il composto diventerà cremoso ma molto denso, quindi spegnere le fruste e incorporare con una spatola le carote, la loro umidità ammorbidirà il composto.
 
 A questo punto versare tutto l'impasto nella teglia e spargere un po' di zucchero e cannella sullo strato superiore così da far poi formare una crosticina in cottura 😋.
 

@@ -9,6 +9,9 @@ Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[taxonomies]
+  ricetta = "ricette"
+
 [sitemap]
   changereq = "monthly"
   priority = 0.5
@@ -31,6 +34,7 @@ enableRobotsTXT = true
   rss = ""
   background_color_class = "bg-black"
   recent_post_number = 2
+  show_reading_time = true
 
 [module]
  [[module.imports]]

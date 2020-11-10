@@ -7,7 +7,7 @@ tags:
 - Maiale
 - Costine
 - Miele
-featured_image: "posts/costine_al_miele/images/fine_cottura.jpg"
+featured_image: "ricette/costine_al_miele/images/fine_cottura.jpg"
 date: 2020-11-07T15:56:51+01:00
 draft: false
 ---
