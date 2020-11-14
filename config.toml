@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
+pluralizeListTitles = false
 
 [taxonomies]
   ricetta = "ricette"
