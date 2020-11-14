@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/carote/</loc>
+    <lastmod>2020-11-08T10:08:15+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/dolci/</loc>
+    <lastmod>2020-11-08T10:08:15+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pscamodio.github.io/penna-cookbook/ricette/</loc>
+    <lastmod>2020-11-08T10:08:15+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/</loc>
     <lastmod>2020-11-08T10:08:15+01:00</lastmod>
     <priority>0.5</priority>
   </url>
@@ -21,18 +39,37 @@
   </url>
   
   <url>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/costine/</loc>
+    <lastmod>2020-11-07T15:56:51+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pscamodio.github.io/penna-cookbook/ricette/costine_al_miele/</loc>
     <lastmod>2020-11-07T15:56:51+01:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pscamodio.github.io/penna-cookbook/categories/</loc>
-    <priority>0</priority>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/maiale/</loc>
+    <lastmod>2020-11-07T15:56:51+01:00</lastmod>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pscamodio.github.io/penna-cookbook/tags/</loc>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/miele/</loc>
+    <lastmod>2020-11-07T15:56:51+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pscamodio.github.io/penna-cookbook/tags/slowcooker/</loc>
+    <lastmod>2020-11-07T15:56:51+01:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pscamodio.github.io/penna-cookbook/categories/</loc>
     <priority>0</priority>
   </url>
   
