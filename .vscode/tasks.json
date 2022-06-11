@@ -29,24 +29,30 @@
         "runOn": "folderOpen"
       }
     },
-	{
-		"label": "Nuova Ricetta",
-		"type": "shell",
-		"command": "hugo",
-		"args": [
-			"new",
-			"--kind",
-			"ricette-bundle",
-			"ricette/${input:nomeRicetta}"
-		],
-		"problemMatcher": []
-	}
+    {
+      "label": "Pubblica",
+      "type": "shell",
+      "command": "git add -A; git commit -mDeploy; git push",
+      "problemMatcher": [],
+    },
+    {
+      "label": "Nuova Ricetta",
+      "type": "shell",
+      "command": "hugo",
+      "args": [
+        "new",
+        "--kind",
+        "ricette-bundle",
+        "ricette/${input:nomeRicetta}"
+      ],
+      "problemMatcher": []
+    }
   ],
   "inputs": [
-	{
-		"id": "nomeRicetta",
-		"description": "Il nome della cartella per la nuova ricetta Eg. 006_pizza",
-		"type": "promptString"
-	}
+    {
+      "id": "nomeRicetta",
+      "description": "Il nome della cartella per la nuova ricetta Eg. 006_pizza",
+      "type": "promptString"
+    }
   ]
 }
