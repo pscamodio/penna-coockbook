@@ -1,11 +1,11 @@
 ---
 title: "Tiramisù al cioccolato amaro"
-slug: "tiramisù_cioccolato_amaro"
+slug: "tiramisu"
 summary: "Tiramisù al cioccolato amaro"
 tags:
 - Dolci
-featured_image: "ricette/crostata_fragole/images/copertina.jpg"
-date: 2021-06-11T08:00:51+01:00
+featured_image: "ricette/tiramisu/images/copertina.jpg"
+date: 2021-06-11T21:00:51+01:00
 draft: false
 ---
 ## Ingredienti
