@@ -1,27 +1,33 @@
 {
-    // See https://go.microsoft.com/fwlink/?LinkId=733558
-    // for the documentation about the tasks.json format
-    "version": "2.0.0",
-    "tasks": [
-        {
-            "label": "build",
-            "type": "shell",
-            "command": "hugo",
-            "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
-        },
-        {
-            "label": "preview",
-            "type": "shell",
-            "command": "Start-Process http://localhost:1313/penna-cookbook/; hugo server",
-            "problemMatcher": [],
-            "group": {
-                "kind": "test",
-                "isDefault": true
-            }
-        }
-    ]
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "preview",
+      "type": "shell",
+      "command": "Start-Process http://localhost:1313/penna-cookbook/; hugo server",
+      "isBackground": true,
+			"problemMatcher": {
+				"severity": "error",
+				"fileLocation": "absolute",
+				"owner": "hugo",
+				"pattern": {
+					"regexp": "template: (.*):(\\d+): (.*)",
+					"file": 1,
+					"location": 2,
+					"message": 3,
+					"loop": true
+				},
+				"background": {
+					"activeOnStart": true,
+					"beginsPattern": "Change detected, rebuilding site",
+					"endsPattern": "Total in \\d+ ms"
+				}
+			},
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
 }
