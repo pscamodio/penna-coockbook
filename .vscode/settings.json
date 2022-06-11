@@ -1,4 +1,10 @@
 {
     "cSpell.ignoreWords": [],
-    "cSpell.language": "en,it"
+    "cSpell.language": "en,it",
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "Nuova Ricetta",
+            "task": "Nuova Ricetta"
+          }
+    ]
 }

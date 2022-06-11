@@ -8,26 +8,45 @@
       "type": "shell",
       "command": "Start-Process http://localhost:1313/penna-cookbook/; hugo server",
       "isBackground": true,
-			"problemMatcher": {
-				"severity": "error",
-				"fileLocation": "absolute",
-				"owner": "hugo",
-				"pattern": {
-					"regexp": "template: (.*):(\\d+): (.*)",
-					"file": 1,
-					"location": 2,
-					"message": 3,
-					"loop": true
-				},
-				"background": {
-					"activeOnStart": true,
-					"beginsPattern": "Change detected, rebuilding site",
-					"endsPattern": "Total in \\d+ ms"
-				}
-			},
+      "problemMatcher": {
+        "severity": "error",
+        "fileLocation": "absolute",
+        "owner": "hugo",
+        "pattern": {
+          "regexp": "template: (.*):(\\d+): (.*)",
+          "file": 1,
+          "location": 2,
+          "message": 3,
+          "loop": true
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "Change detected, rebuilding site",
+          "endsPattern": "Total in \\d+ ms"
+        }
+      },
       "runOptions": {
         "runOn": "folderOpen"
       }
-    }
+    },
+	{
+		"label": "Nuova Ricetta",
+		"type": "shell",
+		"command": "hugo",
+		"args": [
+			"new",
+			"--kind",
+			"ricette-bundle",
+			"ricette/${input:nomeRicetta}"
+		],
+		"problemMatcher": []
+	}
+  ],
+  "inputs": [
+	{
+		"id": "nomeRicetta",
+		"description": "Il nome della cartella per la nuova ricetta Eg. 006_pizza",
+		"type": "promptString"
+	}
   ]
 }
