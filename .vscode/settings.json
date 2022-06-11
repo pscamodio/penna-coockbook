@@ -5,6 +5,11 @@
         {
             "label": "Nuova Ricetta",
             "task": "Nuova Ricetta"
+          },
+          
+        {
+            "label": "Pubblica",
+            "task": "Pubblica"
           }
     ]
 }
