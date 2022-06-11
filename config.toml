@@ -1,10 +1,10 @@
 baseURL = "https://pscamodio.github.io/penna-cookbook"
 languageCode = "it-it"
 title = "Penna CookBook"
-publishDir = "docs"
+publishDir = "build"
 paginate = 10
 DefaultContentLanguage = "it"
-SectionPagesMenu = "build"
+SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
