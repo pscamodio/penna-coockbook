@@ -4,8 +4,8 @@ slug: "crostata_fragole"
 summary: "Crostata di fragole"
 tags:
 - Dolci
-featured_image: "ricette/004_crostata_fragole/images/copertina.jpg"
-date: 2022-06-11T08:00:51+01:00
+featured_image: "ricette/crostata_fragole/images/copertina.jpg"
+date: 2021-06-11T08:00:51+01:00
 draft: false
 ---
 ## Ingredienti

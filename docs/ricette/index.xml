@@ -10,6 +10,15 @@
 </rss>
 .xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Crostata di fragole</title>
+      <link>https://pscamodio.github.io/penna-cookbook/ricette/crostata_fragole/</link>
+      <pubDate>Fri, 11 Jun 2021 08:00:51 +0100</pubDate>
+      
+      <guid>https://pscamodio.github.io/penna-cookbook/ricette/crostata_fragole/</guid>
+      <description>Crostata di fragole</description>
+    </item>
+    
+    <item>
       <title>Polpo alla luciana</title>
       <link>https://pscamodio.github.io/penna-cookbook/ricette/polpo_alla_luciana/</link>
       <pubDate>Sat, 14 Nov 2020 14:00:51 +0100</pubDate>
