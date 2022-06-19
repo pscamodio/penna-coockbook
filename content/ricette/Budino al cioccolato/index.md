@@ -1,6 +1,6 @@
 ---
 title: "Budino Al Cioccolato"
-slug: "Budino al cioccolato"
+slug: "Budino_cioccolato"
 date: 2022-06-19T06:57:02+02:00
 summary: "Sommario per Budino al cioccolato"
 tags:
