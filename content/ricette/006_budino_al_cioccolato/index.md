@@ -1,13 +1,13 @@
 ---
-title: "Budino Al Cioccolato"
-slug: "Budino_cioccolato"
+title: "Budino al cioccolato"
+slug: "budino_cioccolato"
 date: 2022-06-19T06:57:02+02:00
 summary: "Sommario per Budino al cioccolato"
 tags:
 - Categorie
 draft: false
 # la parte tra ricetta/ e /images deve corrispondere allo slug
-featured_image: "ricette/Budino al cioccolato/images/copertina.jpg"
+featured_image: "ricette/budino_cioccolato/images/copertina.jpg"
 ---
 ## Ingredienti
 * 130g di burro
