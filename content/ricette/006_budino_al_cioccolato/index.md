@@ -1,40 +1,27 @@
 ---
-title: "Cheesecake al lemon curd"
-slug: "cheesecake_lemon_curd"
+title: "Budino al cioccolato"
+slug: "budino_cioccolato"
 date: 2022-06-19T06:57:02+02:00
-summary: "Sommario per Cheesecake al lemon curd"
+summary: "Sommario per Budino al cioccolato"
 tags:
 - Categorie
 draft: false
 # la parte tra ricetta/ e /images deve corrispondere allo slug
-featured_image: "ricette/cheesecake_lemon_curd/images/copertina.jpg"
+featured_image: "ricette/budino_cioccolato/images/copertina.jpg"
 ---
 ## Ingredienti
-
-Lemon curd
-* 6 limoni non trattati
-* 5 uova a temperatura ambiente
-* 220g di burro
-* 400g di zucchero semolato
-
-Base
-* 200g di biscotti secchi
-* 100g di burro fuso
-
-Ripieno
-* 800g di formaggio spalmabile a temperatura ambiente
-* 3 uova e 1 tuorlo a temperatura ambiente
-* 1 cucchiaio raso di farina
-* 300ml di panna acida (da sostituire con 220ml di panna fresca con 80ml di succo di limone)
-  
+* 130g di burro
+* 90g di zucchero
+* 190g di cioccolata fondente
+* 800ml di latte intero
+* 80g di farina 00
+* 1/2 bacca di vaniglia
 
 ## Preparazione
-In una ciotola sbriciolare i biscotti ed unirli poi al burro fuso. Stendere il composto in uno stampo da forno dal diametro di 24cm compattandolo e livellandolo. Riporre tutto in frigorifero per tutto il tempo della preparazione del ripieno.
+In un pentolino mettere lo zucchero, il burro ed il cioccolato fondente a pezzi: far scaldare a fuoco lento. Unire poi la farina continuando a girare il composto con la frusta per evitare i grumi.
 
-Unite in una ciotola le uova, lo zucchero, il formaggio e la farina. Montare quindi gli ingredienti con le fruste elettriche fino ad ottenere un composto liscio ed omogeneo. Aggiungere la panna acida e lavorare nuovamente il composto. Riporre in frigo per mezzora.
+A parte far scaldare il latte e la vaniglia fino a raggiungere l'ebollizione.
 
-Versare la crema nello stampo e riporre il tutto in forno preriscaldato a 150° per circa un'ora. Lasciare poi raffreddare la torta su un ripiano e nel frattempo preparare il lemon curd.
+Aggiungere il latte a filo al primo composto e continuare a cuocere a fuoco moderato portando il tutto al limite del bollore. Continuare a cuocere ancora per cinque minuti e porre il composto negli stampi.
 
-La ricetta è semplice. In una ciotola porre lo zucchero, il burro, le uova e il succo dei limoni filtrato e senza semi, nonché le loro scorze. Sbattere il composto con una frusta a mano e cuocere a bagno maria mescolando continuamente per dieci minuti a fuoco moderato fintanto che la crema si rassoderà e velerà il dorso di un cucchiaio. Da ricordarsi che la crema non deve mai prendere bollore. Lasciare raffreddare il composto.
-
-Una volta che la crema sarà fredda, versarla sulla torta e lasciare riposare il tutto in frigorifero per almeno quattro ore prima di servirla.
+far raffreddare prima di riporre in frigo e servire dopo almeno tre ore.
