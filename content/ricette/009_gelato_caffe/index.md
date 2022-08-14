@@ -8,7 +8,7 @@ tags:
 - caffè
 draft: false
 # la parte tra ricetta/ e /images deve corrispondere allo slug
-featured_image: "ricette/009_gelato_caffe/images/copertina.jpg"
+featured_image: "ricette/gelato_caffe/images/copertina.jpg"
 ---
 ## Ingredienti
 * 200ml panna fresca

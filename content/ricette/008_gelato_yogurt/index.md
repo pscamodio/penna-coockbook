@@ -8,7 +8,7 @@ tags:
 - yogurt
 draft: false
 # la parte tra ricetta/ e /images deve corrispondere allo slug
-featured_image: "ricette/008_gelato_yogurt/images/copertina.jpg"
+featured_image: "ricette/gelato_yogurt/images/copertina.jpg"
 ---
 ## Ingredienti
 * 250ml panna fresca da cucina

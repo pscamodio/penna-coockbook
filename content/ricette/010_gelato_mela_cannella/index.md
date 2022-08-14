@@ -9,7 +9,7 @@ tags:
 - cannella
 draft: false
 # la parte tra ricetta/ e /images deve corrispondere allo slug
-featured_image: "ricette/010_gelato_mela_cannella/images/copertina.jpg"
+featured_image: "ricette/gelato_mela_cannella/images/copertina.jpg"
 ---
 ## Ingredienti
 * 300ml panna fresca
