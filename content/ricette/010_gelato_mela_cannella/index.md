@@ -13,8 +13,9 @@ featured_image: "ricette/gelato_mela_cannella/images/copertina.jpg"
 ---
 ## Ingredienti
 * 300ml panna fresca
-* 200ml latte fresco intero
+* 225ml latte fresco intero
 * 2 mele
+* 1 bicchiere di succo di mela
 * cannella
 
 ## Preparazione
